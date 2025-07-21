@@ -64,11 +64,6 @@ SnakeMonGame/
 - **Speed-up**: Increases challenge as score increases
 - **Custom events**: Triggers for unique gameplay changes
 
-## 🙋‍♂️ Author
-
-**Muhammad Khaled**  
-Junior Computer Engineering Student at Cairo University  
-Passionate about game development, simulations, and storytelling through code.
 
 ## 📜 License
 
